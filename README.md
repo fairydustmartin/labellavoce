@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Spin-off of "Challenge: Write a Poem"</title>
+        <title>Spin-off of "my first website"</title>
         <style>
         
             body { background-color: rgb(97, 250, 255);}
